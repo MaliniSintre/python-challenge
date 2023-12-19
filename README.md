@@ -2,16 +2,21 @@
 Module 3 Challenge (Python)
 
 1) PyBank Folder: This directory contains the main scripts for Financial Analysis
-    main.py
+
+   main.py
     
     Resource Folder: Contains csv file required for analysis
-      budget_data.csv
+
+       budget_data.csv
     
     Analysis Folder: contains Output file 
-      Financial_Analysis.txt
 
-2) PyPoll Folder: This directory contains the main scripts (main.py) for Election Results
+       Financial_Analysis.txt
 
+3) PyPoll Folder: This directory contains the main scripts for Election Results
+
+    main.py
+   
     Resource Folder: Contains csv file required for analysis
         election_data.csv
 
