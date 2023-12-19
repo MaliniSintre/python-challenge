@@ -3,7 +3,7 @@ Module 3 Challenge (Python)
 
 1) PyBank Folder: This directory contains the main scripts for Financial Analysis
 
-   main.py
+      main.py
     
     Resource Folder: Contains csv file required for analysis
 
