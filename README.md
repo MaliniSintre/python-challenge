@@ -18,10 +18,12 @@ Module 3 Challenge (Python)
     main.py
    
     Resource Folder: Contains csv file required for analysis
-        election_data.csv
+
+      election_data.csv
 
     Analysis Folder: contains Output file - 
-        Election Results.txt
+
+      Election Results.txt
    
 Following are the references used
 1. Motwani, B. (2020). Data Analytics using Python. Publisher Wiley
